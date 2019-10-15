@@ -4,9 +4,9 @@ Hello...Git!!
 class HelloGit
 {
 
-	main()
+	public static void main(Stirng a[])
 	{
-		Sysout("hello");
+		("hello");
 
 	}
 }
