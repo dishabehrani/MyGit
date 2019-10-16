@@ -3,14 +3,13 @@
 
 class HelloGit
 {
-void mymethod(){
+   static void mymethod(){
 	sysout("my method added")
 
 }
 	public static void main(Stirng a[])
 	{
-
-
+		mymethod();
 		System.out.println("this will print ....hello..welcome to git and java.....");
 
 
