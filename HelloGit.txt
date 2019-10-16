@@ -3,7 +3,10 @@
 
 class HelloGit
 {
+void mymethod(){
+	sysout("my method added")
 
+}
 	public static void main(Stirng a[])
 	{
 
