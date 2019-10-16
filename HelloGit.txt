@@ -3,8 +3,8 @@
 
 class HelloGit
 {
-   static void mymethod(){
-	sysout("my method added")
+   static String mymethod(){
+	return "my method added"
 
 }
 	public static void main(Stirng a[])
