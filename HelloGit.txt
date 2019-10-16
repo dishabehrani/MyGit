@@ -1,5 +1,5 @@
-This is my complete java application.
-Hello...Git!!
+//This is my complete java application.
+//Hello...Git!!
 
 class HelloGit
 {
