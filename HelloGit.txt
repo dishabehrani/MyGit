@@ -6,7 +6,10 @@ class HelloGit
 
 	public static void main(Stirng a[])
 	{
-		System.out.println("welcome to java");
+
+
+		System.out.println("this will print ....hello..welcome to git and java.....");
+
 
 	}
 }
